@@ -1,0 +1,147 @@
+/* all common css start  */
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,p,a{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+    display:inline-block;
+}
+ul li{
+    display: inline-block;
+    
+}
+li{
+    list-style-type: none;
+}
+/* all common css end */
+
+
+/* header start  */
+#header{
+    background: #1C1E53;
+    height: 690px;
+  
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    
+    
+
+}
+.logo{
+    width: 15%;
+    line-height: 48px;
+   
+}
+.nav{
+    width: 60%;
+    text-align: right;
+    line-height: 48px;
+    
+   
+}
+.nav ul li{
+    padding: 16px 18px;
+}
+.nav ul li a{
+    color: #BBBBCB;
+    font-size: 16px;
+  transition: .4s;
+}
+.nav ul li a:hover{
+ color: #fff;
+}
+.btn{
+    width: 25%;    
+    text-align: right;
+   
+}
+.btn a{
+color: #fff;
+display:inline-block ;
+font-weight: 500;
+padding: 10px 48px;
+border-radius: 41px;
+border: 2px solid rgba(244, 246, 252, 0.20);
+line-height: 48px;
+}
+.text{
+    display: flex;
+}
+.box_1{
+    width: 50%;
+    margin-top: 150px;
+}
+.box_1 h1{
+    
+    font-size: 54px;
+    color: #fff;
+    font-weight: 600;
+    line-height: 74px;
+    margin-bottom: 20px;
+}
+.box_1 p{
+    font-size: 16px;
+color: #BBBBCB;
+font-weight: 500;
+line-height: 28px;
+margin-right: 50px;
+margin-bottom: 20px;
+
+}
+.box_1 a{
+    border-radius: 41px;
+    background: #FCD980;
+    padding: 16px 56px;
+}
+button{
+    font-size: 16px;
+border: none;
+font-weight: 500;
+line-height: 28px;
+margin-left: 30px;
+color: #fff;
+background: transparent;
+}
+button i{
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.box_2{
+    width: 50%;
+    margin-top: 150px;
+}
+
+
+/* header end */
+
+
+
+
+/* header start  */
+/* header end */
+/* header start  */
+/* header end */
+/* header start  */
+/* header end */
+/* header start  */
+/* header end */
+/* header start  */
+/* header end */
+/* header start  */
+/* header end */
+/* header start  */
+/* header end */
+/* header start  */
+/* header end */
