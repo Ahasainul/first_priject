@@ -122,17 +122,154 @@ button i{
     width: 50%;
     margin-top: 150px;
 }
-
-
 /* header end */
-
-
 
 
 /* header start  */
+#work{
+    background: #F4F6FC;
+    
+}
+.how{
+ display: flex;
+
+}
+.card_1{
+width: 50%;
+margin-top: 150px;
+margin-bottom: 100px;
+}
+.card_1 h1{
+    font-size: 48px;
+margin-bottom: 16px;
+font-weight: 600;
+line-height: 64px;
+
+}
+.card_1 p{
+    font-size: 16px;
+padding-right: 210px;
+font-weight: 400;
+line-height: 28px;
+margin-bottom: 10px;
+
+}
+.card_1 a{
+    font-size: 18px;
+
+font-weight: 500;
+line-height: 32px;
+
+}
+.card_1 i{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.card_2{
+width: 50%;
+margin-bottom: 100px;
+
+}
+.card_3{
+    margin-top: 150px;
+    display: flex;
+}
+.card_4{
+width: 50%;
+
+
+}
+.card_5{
+    width: 50%;
+}
+.card_6{
+    display: flex;
+    margin-top: 48px;
+    
+}
+.card_8{
+    width: 50%;
+   
+}
+.card_9{
+    width: 50%;
+    margin-left: 20px;
+}
 /* header end */
+
+
 /* header start  */
+.text_2{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+.textline{
+    margin-bottom: 50px;
+}
+
+.text_2 h1{
+    font-size: 48px;
+
+font-weight: 600;
+line-height: 64px;
+color: #282938;
+}
+.text_2 p{
+    font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+}
+
+.text_2 i{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.imaijes{
+    display: flex;
+    margin-top: 50px;
+}
+.img_1 .aa{
+    padding: 10px;
+    margin-top: 30px;
+    width: 100%;
+    
+}
+.img_1 img{
+    padding: 10px;
+    
+  
+}
+.img_1{
+    position: relative;
+}
+
+
+.img_1::after{
+    content: '';
+    position: absolute;
+    background: linear-gradient(329deg, #1C1E53 -10.96%, rgba(28, 30, 83, 0.42) 103.96%);
+    width: 50%;
+    height: 99%;
+    left: 0px;
+    top: 0;
+}
+.img_2{
+    padding: 10px;
+}
 /* header end */
+
+
+
+
+
+
+
+
+
+
 /* header start  */
 /* header end */
 /* header start  */
